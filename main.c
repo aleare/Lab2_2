@@ -2,7 +2,7 @@
 #include "Librerie/libreria_principale.h"
 
 int main() {
-    hello_world();
-    //CIAO
+    hello_world(); //Funzione di prova...
+    printf("Ciao gentaglia!");
     return 0;
 }
